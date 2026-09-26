@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ahmad%20Mehmood&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20Big%20Data%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+# 👋 Hey, I'm Ahmad Mehmood
+### Big Data and Cloud Engineer
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header" width="100%"/>
 
 <a href="https://www.linkedin.com/in/ahmadmehmood1252/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/ahmad_jutt1252"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -13,7 +16,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+reliable+data+pipelines+at+scale;AWS+%7C+Azure+%7C+Databricks+%7C+Snowflake+%7C+Microsoft+Fabric;Turning+raw+data+into+production-grade+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF4B2B&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+reliable+data+pipelines+at+scale;AWS+%7C+Azure+%7C+Databricks+%7C+Snowflake+%7C+Microsoft+Fabric;Turning+raw+data+into+production-grade+systems" alt="Typing SVG" />
 
 </div>
 
@@ -21,13 +24,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Cloud & Big Data Engineer** at **Vion Logics**, based in Lahore, Pakistan, with 3–4 years of experience designing and running production data pipelines across **AWS, Azure, Databricks, Snowflake, and Microsoft Fabric**. I focus on building ETL/ELT systems that are cost-efficient, reliable, and easy to operate — from raw ingestion to BI-ready presentation layers.
+I'm a **Big Data and Cloud Engineer** at **Vion Logics**, based in Lahore, Pakistan, with 3 to 4 years of experience designing and running production data pipelines across **AWS, Azure, Databricks, Snowflake, and Microsoft Fabric**. I focus on building ETL/ELT systems that are cost-efficient, reliable, and easy to operate, from raw ingestion to BI-ready presentation layers.
 
 > 💡 *Making complex data pipelines simple, reliable, and cost-efficient.*
 
 - 🔭 **Currently working on:** cloud-native data pipelines & lakehouse architectures on Azure and Fabric
 - 🌱 **Currently deepening:** Databricks, Microsoft Fabric, and Kubernetes-based orchestration
-- 🏆 **Known for:** re-architecting an Azure Step Functions ETL pipeline onto Kubernetes with Dockerized cron scheduling — cutting infrastructure cost by **50%**
+- 🏆 **Known for:** re-architecting an Azure Step Functions ETL pipeline onto Kubernetes with Dockerized cron scheduling, cutting infrastructure cost by **50%**
 - 🤝 **Open to:** speaking, mentoring, collaborations & consulting on Cloud and Big Data
 - 📫 **Reach me:** ahmadmehmood1252@gmail.com
 
@@ -37,9 +40,9 @@ I'm a **Cloud & Big Data Engineer** at **Vion Logics**, based in Lahore, Pakista
 
 | # | Achievement |
 |---|---|
-| 🚀 | Re-engineered a Sync Function ETL pipeline (transactional → presentation layer for BI) — migrated from Azure Step Functions to a **Kubernetes control plane** with Dockerized, cron-scheduled containers, **cutting costs by 50%** |
+| 🚀 | Re-engineered a Sync Function ETL pipeline (transactional to presentation layer for BI), migrating from Azure Step Functions to a **Kubernetes control plane** with Dockerized, cron-scheduled containers, **cutting costs by 50%** |
 | 🎖️ | Recognized as **Best Employee of the Month** at Vion Logics |
-| 📚 | Certified across the full Microsoft data stack — **DP-700, DP-600**, plus **Databricks & AWS** certifications |
+| 📚 | Certified across the full Microsoft data stack, including **DP-700 and DP-600**, plus **Databricks & AWS** certifications |
 | 🧮 | Solved the full **SQL-50** study plan on LeetCode |
 | 💻 | Solved Python & SQL problems on HackerRank from basic to advanced |
 
@@ -133,13 +136,13 @@ I'm a **Cloud & Big Data Engineer** at **Vion Logics**, based in Lahore, Pakista
 
 **Awards**
 
-🏅 Best Employee of the Month — Vion Logics
+🏅 Best Employee of the Month, Vion Logics
 
 <br/>
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm open to **speaking, mentoring, collaborations, and consulting** on **Cloud and Big Data** topics. If you're building data platforms, tackling pipeline cost/reliability problems, or want to chat about Databricks, Snowflake, Fabric, or AWS/Azure data architecture — let's talk.
+I'm open to **speaking, mentoring, collaborations, and consulting** on **Cloud and Big Data** topics. If you're building data platforms, tackling pipeline cost or reliability problems, or want to chat about Databricks, Snowflake, Fabric, or AWS/Azure data architecture, let's talk.
 
 <div align="center">
 
